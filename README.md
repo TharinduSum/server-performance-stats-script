@@ -65,3 +65,5 @@ Used: 20G / Total: 100G (20%)
 
 - A Linux-based environment (Ubuntu, Debian, RHEL, CentOS, etc)
 - Standard utilities: top, ps, awk, grep, sed (Pre-installed on most distributions)
+
+https://roadmap.sh/projects/server-stats
