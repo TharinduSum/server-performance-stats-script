@@ -34,8 +34,10 @@ The script provides the following real-time statistics:
 Run the script directly from your terminal:
 ```bash
 ./server-stats.sh
+```
 
 ## Example Output
+```bash
 --- Server Performance Stats ---
 
 [ OS Version ]
