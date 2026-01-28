@@ -1,4 +1,3 @@
-https://roadmap.sh/projects/server-stats
 # Server Performance Stats Script
 
 A lightweight Bash script designed to analyze and display vital server performance metrics on any Linux-based system. This tool provides a quick snapshot of resource usage to help administrators debug and monitor server health.
@@ -67,3 +66,4 @@ Used: 20G / Total: 100G (20%)
 - A Linux-based environment (Ubuntu, Debian, RHEL, CentOS, etc)
 - Standard utilities: top, ps, awk, grep, sed (Pre-installed on most distributions)
 
+https://roadmap.sh/projects/server-stats
